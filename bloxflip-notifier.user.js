@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bloxflip Rain Notifier with Webhook
 // @namespace    http://tampermonkey.net/
-// @version      1.3.1
+// @version      1.3.3
 // @description  Notify about rain and send to Discord Webhook!
 // @author       Valentineuh
 // @match        https://bloxflip.com/*
